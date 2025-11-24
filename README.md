@@ -234,7 +234,7 @@ This is a boatload of other front-end bloggers that you might find useful.
   <li>[<a href="https://zellwk.com/feed.xml">RSS</a>] <a href="https://zellwk.com/">Zell Liew</a></li>
   <li>[<a href="https://www.darrylbayliss.net/feed.xml">RSS</a>] <a href="https://www.darrylbayliss.net/feed.xml">Darryl Bayliss</a></li>
   <li>[<a href="https://www.developerway.com/rss.xml">RSS</a>] <a href="https://www.developerway.com/">Nadia Makarevich</a></li>
-  <li>[<a href="https://www.frontendgeek.com/feed.xml">RSS</a>] <a href="https://www.frontendgeek.com/">FrontendGeek</a></li>
+  <li>[<a href="https://www.frontendgeek.com/feed.xml">RSS</a>] <a href="https://www.frontendgeek.com/blogs?page=1">FrontendGeek</a></li>
 </ul>
 
 ### Hackernoon Tags
